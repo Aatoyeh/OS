@@ -14,9 +14,13 @@
 
 [BunsenLabs](https://www.bunsenlabs.org)
 
+
 [Deepin](https://www.deepin.org)
+
 [MX](https://mxlinux.org)
+
 [Nitrux](https://nxos.org)
+
 [RaspberryPi OS](https://www.raspberrypi.com/software)
 
 #### 2
@@ -24,38 +28,54 @@
 
 #### 3
 [Archcraft](https://archcraft.io)
+
 [Archlabs](https://archlabslinux.com)
+
 [Artix](https://artixlinux.org)
+
 [Axyl](https://axyl-os.github.io)
+
 [EndeavourOS](https://endeavouros.com)
+
 [Garuda](https://garudalinux.org)
+
 [Manjaro](https://manjaro.org)
 
 #### 4
 [Elementary](https://elementary.io)
+
 [Feren](https://ferenos.weebly.com)
+
 [LXLE](https://www.lxle.net)
+
 [Mint](https://www.linuxmint.com)
+
 [Pappermint](https://peppermintos.com)
+
 [POP!](https://pop.system76.com)
+
 [Puppy](https://puppylinux-woof-ce.github.io)
+
 [Zorin](https://zorin.com)
 
 #### 6
 [Debian](https://www.debian.org)
+
 [Gentoo](https://www.gentoo.org)
+
 [Mageia](https://www.mageia.org)
+
 [Nix](https://nixos.org)
+
 [Slackware](http://www.slackware.com)
+
 [Solus](https://getsol.us)
 
 ## Hacking
-
 #### 1
 [Kali](https://www.kali.org)
-[Parrot Security](https://www.parrotsec.org)
 
-#### 2
+[Parrot Security](https://www.parrotsec.org)
 
 #### 3
 [Black Arch](https://www.blackarch.org)
@@ -65,15 +85,16 @@
 
 #### 7
 [Network Security Toolkit](https://www.networksecuritytoolkit.org)
+
 [Pentoo](https://www.pentoo.ch)
 
 #### 8
 [Jayro’s Lockpick](https://gbatemp.net/threads/release-jayros-lockpick-a-bootable-password-removal-suite-winpe.579278)
 
 ## Security
-
 #### 1
 [Tails](https://tails.boum.org)
+
 [Whonix (Kicksecure)](https://www.whonix.org)
 
 #### 4
@@ -83,21 +104,24 @@
 [Alpine](https://www.alpinelinux.org)
 
 ## Server
-
 #### 1
 [OpenMediaVault (NAS system)](https://www.openmediavault.org)
+
 [YunoHost](https://yunohost.org)
 
 #### 2
 [NethServer](https://www.nethserver.org)
+
 [Rockey](https://rockylinux.org)
+
 [Alma](https://almalinux.org)
 
 ## Repair and Rescue
-
 #### 1
 [Finnix](https://www.finnix.org)
+
 [Rescatux](https://www.supergrubdisk.org/rescatux)
+
 [Clonezilla](https://clonezilla.org)
 
 #### 3
@@ -111,6 +135,5 @@ Empty
 
 ## (-|^|-)
 [DahliaOS](https://dahliaos.io)
-
-https://blackwin.ir
+[Black Win](https://blackwin.ir)
 [DEMON LINUX](https://www.demonlinux.com)
