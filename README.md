@@ -10,7 +10,7 @@
 
 ## Desktop
 #### 1
-[antiX](https://antixlinux.com)
+[AntiX](https://antixlinux.com)
 
 [BunsenLabs](https://www.bunsenlabs.org)
 
@@ -86,6 +86,8 @@
 #### 4
 [Samurai Web Testing Framework](https://samurai.sourceforge.io)
 
+[DEFT Linux ( Discontinued )](https://archiveos.org/deft/)
+
 #### 7
 [Network Security Toolkit](https://www.networksecuritytoolkit.org)
 
@@ -108,7 +110,7 @@
 
 ## Server
 #### 1
-[OpenMediaVault (NAS system)](https://www.openmediavault.org)
+[OpenMediaVault ( NAS system )](https://www.openmediavault.org)
 
 [YunoHost](https://yunohost.org)
 
@@ -131,9 +133,9 @@
 [SystemRescue](https://www.system-rescue.org)
 
 #### 7
-[Medicat (Also contains 'Jayro’s Lockpick')](https://medicatusb.com)
+[Medicat (Also contains Jayro’s Lockpick )](https://medicatusb.com)
 
-[Hiren’s BootCD PE (Windows 10) ](https://www.hirensbootcd.org/)
+[Hiren’s BootCD PE ( Windows 10 ) ](https://www.hirensbootcd.org/)
 
 ## Other
 Empty
