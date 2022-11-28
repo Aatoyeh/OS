@@ -133,12 +133,14 @@
 #### 7
 [Medicat (Also contains 'Jayro’s Lockpick')](https://medicatusb.com)
 
+[Hiren’s BootCD PE (Windows 10) ](https://www.hirensbootcd.org/)
+
 ## Other
 Empty
 
 ## (-|^|-)
 [DahliaOS](https://dahliaos.io)
 
-[Black Win](https://blackwin.ir)
+[Black Win (Windows 10)](https://blackwin.ir)
 
 [DEMON LINUX](https://www.demonlinux.com)
