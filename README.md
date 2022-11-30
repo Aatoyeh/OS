@@ -72,7 +72,36 @@
 [Solus](https://getsol.us)
 
 ## Mobile
-<'-'>
+#### 1
+[Mobian](https://mobian-project.org)
+
+[PureOS](https://pureos.net)
+
+#### 4
+[Ubuntu Touch](https://ubports.com)
+
+#### 7
+
+[Plasma Mobile](https://plasma-mobile.org)
+a user interface for ARM OSes.
+
+[PostmarketOS ( Alpine linux )](https://www.postmarketos.org)
+
+---
+[/e/ ( also known as eelo)](https://e.foundation/)
+
+[CalyxOS](https://calyxos.org)
+
+[GrapheneOS](https://grapheneos.org)
+
+[LineageOS](https://lineageos.org)
+
+[Replicant](https://replicant.us)
+
+---
+[Kai OS](https://www.kaiostech.com)
+
+[Sailfish OS](https://sailfishos.org)
 
 ## Hacking
 #### 1
