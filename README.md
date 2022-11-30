@@ -21,7 +21,7 @@
 
 [Nitrux](https://nxos.org)
 
-[RaspberryPi OS](https://www.raspberrypi.com/software)
+
 
 #### 2
 [Fedora](https://getfedora.org)
