@@ -82,10 +82,7 @@
 
 #### 7
 
-[Plasma Mobile](https://plasma-mobile.org)
-a user interface for ARM OSes.
-
-[PostmarketOS ( Alpine linux )](https://www.postmarketos.org)
+[Plasma Mobile])
 
 ---
 [/e/ ( also known as eelo)](https://e.foundation/)
