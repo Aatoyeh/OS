@@ -21,7 +21,7 @@
 
 [Nitrux](https://nxos.org)
 
-
+[RaspberryPi OS](https://www.raspberrypi.com/software)
 
 #### 2
 [Fedora](https://getfedora.org)
@@ -32,6 +32,10 @@
 [Archlabs](https://archlabslinux.com)
 
 [Artix](https://artixlinux.org)
+
+[Axyl](https://axyl-os.github.io)
+
+[EndeavourOS](https://endeavouros.com)
 
 [Garuda](https://garudalinux.org)
 
@@ -78,7 +82,10 @@
 
 #### 7
 
-[Plasma Mobile])
+[Plasma Mobile](https://plasma-mobile.org)
+a user interface for ARM OSes.
+
+[PostmarketOS ( Alpine linux )](https://www.postmarketos.org)
 
 ---
 [/e/ ( also known as eelo)](https://e.foundation/)
