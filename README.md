@@ -33,10 +33,6 @@
 
 [Artix](https://artixlinux.org)
 
-[Axyl](https://axyl-os.github.io)
-
-[EndeavourOS](https://endeavouros.com)
-
 [Garuda](https://garudalinux.org)
 
 [Manjaro](https://manjaro.org)
