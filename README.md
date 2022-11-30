@@ -41,7 +41,6 @@
 
 [Manjaro](https://manjaro.org)
 
-
 #### 4
 [Elementary](https://elementary.io)
 
