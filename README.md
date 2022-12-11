@@ -14,7 +14,6 @@
 
 [BunsenLabs](https://www.bunsenlabs.org)
 
-
 [Deepin](https://www.deepin.org)
 
 [MX](https://mxlinux.org)
@@ -70,7 +69,6 @@
 [Slackware](http://www.slackware.com)
 
 [Solus](https://getsol.us)
-
 
 ## Mobile
 #### 1
