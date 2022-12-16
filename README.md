@@ -3,7 +3,9 @@
 2. Red Hat
 3. Arch
 4. Ubuntu
-5. Slacw
+5. Slacware
+6. Indipendent
+7. Other
 8. Unknown
 
 ## Desktop
@@ -26,7 +28,13 @@
 #### 3
 [Archcraft](https://archcraft.io)
 
-[Archlabs]](https://endeavouros.com)
+[Archlabs](https://archlabslinux.com)
+
+[Artix](https://artixlinux.org)
+
+[Axyl](https://axyl-os.github.io)
+
+[EndeavourOS](https://endeavouros.com)
 
 [Garuda](https://garudalinux.org)
 
@@ -161,8 +169,10 @@ a user interface for ARM OSes.
 Empty
 
 ## (-|^|-)
-[DahliaOS](https://dahliaos.io)
-
 [Black Win](https://blackwin.ir)
 
+[DahliaOS](https://dahliaos.io)
+
 [DEMON LINUX](https://www.demonlinux.com)
+
+[FydeOS](https://fydeos.io)
