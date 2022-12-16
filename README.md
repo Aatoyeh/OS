@@ -5,6 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="style.css">
 	<link rel="icon" href="favicon.gif" type="image/x-icon">
+	<tittle>Collection of OS</tittle>
 </head>
 <body>
 
