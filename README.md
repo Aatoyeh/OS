@@ -1,5 +1,8 @@
-# Collection
-## SEQUENCE
+<head>
+	<tittle>OS</tittle>
+</head>
+
+# SEQUENCE
 1. Debian
 2. Red Hat
 3. Arch
@@ -11,7 +14,7 @@
 
 ## Desktop
 #### 1
-[AntiX](https://antixlinux.com)
+<p class="as">[AntiX](https://antixlinux.com)</p>
 
 [BunsenLabs](https://www.bunsenlabs.org)
 
