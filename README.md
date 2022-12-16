@@ -1,5 +1,5 @@
 <head>
-	<tittle>OS</tittle>
+	<tittle>OS Colection</tittle>
 </head>
 
 # SEQUENCE
