@@ -3,9 +3,7 @@
 2. Red Hat
 3. Arch
 4. Ubuntu
-5. Slacware
-6. Indipendent
-7. Other
+5. Slacw
 8. Unknown
 
 ## Desktop
