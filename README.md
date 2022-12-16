@@ -1,4 +1,14 @@
-# Collection
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="style.css">
+	<link rel="icon" href="favicon.gif" type="image/x-icon">
+	<title>Collection of OS</title>
+</head>
+<body>
+
 # SEQUENCE
 1. Debian
 2. Red Hat
@@ -177,3 +187,6 @@ Empty
 [DEMON LINUX](https://www.demonlinux.com)
 
 [FydeOS](https://fydeos.io)
+
+</body>
+</html>
