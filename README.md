@@ -28,13 +28,7 @@
 #### 3
 [Archcraft](https://archcraft.io)
 
-[Archlabs](https://archlabslinux.com)
-
-[Artix](https://artixlinux.org)
-
-[Axyl](https://axyl-os.github.io)
-
-[EndeavourOS](https://endeavouros.com)
+[Archlabs]](https://endeavouros.com)
 
 [Garuda](https://garudalinux.org)
 
