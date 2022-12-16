@@ -14,7 +14,7 @@
 
 ## Desktop
 #### 1
-<p class="as">[AntiX](https://antixlinux.com)</p>
+[AntiX](https://antixlinux.com)
 
 [BunsenLabs](https://www.bunsenlabs.org)
 
