@@ -1,7 +1,4 @@
-<head>
-	<tittle>OS Colection</tittle>
-</head>
-
+# Collection
 # SEQUENCE
 1. Debian
 2. Red Hat
