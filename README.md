@@ -1,4 +1,5 @@
-# SEQUENCE
+# OS
+## SEQUENCE
 1. Debian
 2. Red Hat
 3. Arch
