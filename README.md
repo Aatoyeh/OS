@@ -9,12 +9,11 @@ body{
 	background-size: cover;
   background-attachment: fixed;
 }
-h1{
-	display: block;
-  text-align: center;
+h1 a{
+	display: none;
 }
-h2{
-  
+h1{
+  text-align: center;
 }
 </style>
 
