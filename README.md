@@ -5,6 +5,7 @@
 	<link rel="icon" type="image/icon" href="favicon.png">
 	<title>Collection Of OS</title>
 </head>
+<div></div>
 
 # SEQUENCE
 1. Debian
