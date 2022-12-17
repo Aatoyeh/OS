@@ -1,10 +1,6 @@
 ---
-title: "Collection Of OS"
-output: 
-  html_document:
-     css: style.css
-     self_contained: no
 
+css: style.css
 ---
 
 # SEQUENCE
