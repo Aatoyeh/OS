@@ -23,6 +23,6 @@ p:hover{
     background: #000;
     color: #f00;
     size: 20px;
-    transition: 0.3s;
+    transition: 0.5s;
     transform: scale(.9);
 }
