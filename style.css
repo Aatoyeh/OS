@@ -20,7 +20,7 @@ p a{
 	color: #fff;
 }
 p:hover{
-    background-color: #000;
+    background: #000;
     color: #f00;
     size: 20px;
     transition: 0.3s;
