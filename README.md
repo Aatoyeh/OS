@@ -2,32 +2,8 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="image/icon" href="favicon.png">
+	<link rel="stylesheet" type="text/css" href="style.css">
 	<title>Collection Of OS</title>
-
-<style>
-body{
-	background: #000;
-	color: #fff;
-	font-size: 18px;
-	font-family: monospace;
-	background-image: url('./background.jpg');
-	background-repeat: no-repeat;
-	background-size: cover;
-  	background-attachment: fixed;
-	filter: brightness(1.3);
-
-}
-h1 a{
-	display: none;
-}
-h1{
-  text-align: center;
-}
-p a{
-	color: #fff;
-}
-</style>
-
 </head>
 
 # SEQUENCE
@@ -42,8 +18,6 @@ p a{
 
 ## Desktop
 #### Debian Based
-
-
 
 [AntiX](https://antixlinux.com)
 
