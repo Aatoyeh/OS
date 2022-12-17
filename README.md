@@ -1,7 +1,7 @@
 <style>
 body{
-	background: #000;
-	color: #fff;
+	background: #000000;
+	color: #ffffff;
 	font-size: 18px;
 	font-family: monospace;
 	background-image: url('./background.jpg');
@@ -9,15 +9,16 @@ body{
 	background-size: cover;
   background-attachment: fixed;
 }
-h1 a{
+h1{
 	display: block;
+  text-align: center;
 }
 h2{
-  text-align: center;
+  
 }
 </style>
 
-## **SEQUENCE**
+# **SEQUENCE**
 1. Debian
 2. Red Hat
 3. Arch
