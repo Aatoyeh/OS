@@ -19,3 +19,7 @@ h1{
 p a{
 	color: #fff;
 }
+p a:hover{
+    background-color: #000;
+    zoom: 10%;
+}
