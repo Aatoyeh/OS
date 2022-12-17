@@ -5,8 +5,8 @@
 	<title>Collection Of OS</title>
 <style>
 body{
-	background: #000000;
-	color: #ffffff;
+	background: #000;
+	color: #fff;
 	font-size: 18px;
 	font-family: monospace;
 	background-image: url('./background.jpg');
@@ -19,6 +19,9 @@ h1 a{
 }
 h1{
   text-align: center;
+}
+p a{
+	color: #fff;
 }
 </style>
 </head>
