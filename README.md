@@ -1,5 +1,5 @@
 <style>
-  body{
+body{
 	background: #000;
 	color: #fff;
 	font-size: 18px;
@@ -10,15 +10,14 @@
   background-attachment: fixed;
 }
 h1{
-	text-align: center;
+	display: block;
 }
-
+h2{
+  text-align: center;
+}
 </style>
 
-# SEQUENCE
-
----
-
+## **SEQUENCE**
 1. Debian
 2. Red Hat
 3. Arch
