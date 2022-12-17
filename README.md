@@ -1,3 +1,10 @@
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/icon" href="favicon.png">
+	<title>Collection Of OS</title>
+</head>
+
 <style>
 body{
 	background: #000000;
