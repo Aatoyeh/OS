@@ -5,7 +5,7 @@ body{
 	font-family: monospace;
 	background-image: url('./background.jpg');
 	background-repeat: no-repeat;
-	background-size: cover 100% 100%; 
+	background-size: cover; 
   	background-attachment: fixed;
 	filter: brightness(1.5);
 
@@ -24,4 +24,5 @@ p:hover{
     size: 20px;
     transition: .5s;
     transform: scale(.96);
+	text-decoration-style: dotted;
 }
