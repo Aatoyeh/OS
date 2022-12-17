@@ -3,6 +3,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="image/icon" href="favicon.png">
 	<title>Collection Of OS</title>
+
 <style>
 body{
 	background: #000;
@@ -24,6 +25,7 @@ p a{
 	color: #fff;
 }
 </style>
+
 </head>
 
 # SEQUENCE
