@@ -1,3 +1,20 @@
+<style>
+  body{
+	background: #000;
+	color: #fff;
+	font-size: 18px;
+	font-family: monospace;
+	background-image: url('./background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+	text-align: center;
+}
+
+</style>
+
 # SEQUENCE
 1. Debian
 2. Red Hat
