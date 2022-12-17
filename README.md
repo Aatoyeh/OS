@@ -7,7 +7,7 @@
 	background-image: url('./background.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
-    background-attachment: fixed;
+  background-attachment: fixed;
 }
 h1{
 	text-align: center;
