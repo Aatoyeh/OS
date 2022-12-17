@@ -1,9 +1,10 @@
 <head>
+	<title>Collection Of OS</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="image/icon" href="favicon.png">
 	<link rel="stylesheet" type="text/css" href="style.css">
-	<title>Collection Of OS</title>
+	
 </head>
 
 # SEQUENCE
