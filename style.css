@@ -5,9 +5,8 @@ body{
 	font-family: monospace;
 	background-image: url('./background.jpg');
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: cover 100%; 
   	background-attachment: fixed;
-      background-size: 100%;
 	filter: brightness(1.5);
 
 }
