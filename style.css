@@ -7,7 +7,6 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover; 
   	background-attachment: fixed;
-	filter: brightness(1.5);
 
 }
 h1 a{
@@ -20,7 +19,7 @@ p a{
 	color: #fff;
 }
 p:hover{
-    background-color: #8b0000;
+    background-color: #ffffff;
     size: 20px;
     transition: .5s;
     transform: scale(.96);
