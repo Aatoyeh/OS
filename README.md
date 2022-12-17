@@ -9,7 +9,7 @@ body{
 	background-size: cover;
   background-attachment: fixed;
 }
-h1{
+h1 a{
 	display: block;
 }
 h2{
