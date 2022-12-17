@@ -1,9 +1,11 @@
-title: Collection of OS
+---
+title: "Collection Of OS"
 output: 
   html_document:
-     css: font-awesome-4.4.0/css/font-awesome.css
+     css: style.css
      self_contained: no
 
+---
 
 # SEQUENCE
 1. Debian
