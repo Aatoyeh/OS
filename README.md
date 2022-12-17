@@ -18,7 +18,7 @@ h2{
 }
 </style>
 
-# **SEQUENCE**
+# SEQUENCE
 1. Debian
 2. Red Hat
 3. Arch
