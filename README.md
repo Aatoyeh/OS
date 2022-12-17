@@ -13,7 +13,9 @@ body{
 	background-image: url('./background.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
-  background-attachment: fixed;
+  	background-attachment: fixed;
+	filter: brightness(1.3);
+
 }
 h1 a{
 	display: none;
@@ -39,7 +41,10 @@ p a{
 8. Unknown
 
 ## Desktop
-#### 1
+#### Debian Based
+
+
+
 [AntiX](https://antixlinux.com)
 
 [BunsenLabs](https://www.bunsenlabs.org)
@@ -101,7 +106,7 @@ p a{
 [Solus](https://getsol.us)
 
 ## Mobile
-#### 1
+#### Debian Based
 [Mobian](https://mobian-project.org)
 
 [PureOS](https://pureos.net)
@@ -133,7 +138,7 @@ a user interface for ARM OSes.
 [Sailfish OS](https://sailfishos.org)
 
 ## Hacking
-#### 1
+#### Debian Based
 [Kali](https://www.kali.org)
 
 [Parrot Security](https://www.parrotsec.org)
@@ -155,7 +160,7 @@ a user interface for ARM OSes.
 [Jayro’s Lockpick](https://gbatemp.net/threads/release-jayros-lockpick-a-bootable-password-removal-suite-winpe.579278)
 
 ## Security
-#### 1
+#### Debian Based
 [Tails](https://tails.boum.org)
 
 [Whonix (Kicksecure)](https://www.whonix.org)
@@ -167,7 +172,7 @@ a user interface for ARM OSes.
 [Alpine](https://www.alpinelinux.org)
 
 ## Server
-#### 1
+#### Debian Based
 [OpenMediaVault ( NAS system )](https://www.openmediavault.org)
 
 [YunoHost](https://yunohost.org)
@@ -180,7 +185,7 @@ a user interface for ARM OSes.
 [Alma](https://almalinux.org)
 
 ## Repair and Rescue
-#### 1
+#### Debian Based
 [Finnix](https://www.finnix.org)
 
 [Rescatux](https://www.supergrubdisk.org/rescatux)
