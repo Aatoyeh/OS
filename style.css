@@ -18,7 +18,7 @@ h1{
 p a{
 	color: #fff;
 }
-a:hover{
+p,a:hover{
 	color: #f00;
     transition: .5s;
     transform: scale(.98);
