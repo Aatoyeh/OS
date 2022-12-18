@@ -17,6 +17,7 @@ h1{
 }
 p a{
 	color: #0f0;
+	text-decoration: none;
 }
 p:hover{
     transition: .5s;
