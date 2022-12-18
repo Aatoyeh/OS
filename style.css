@@ -19,7 +19,8 @@ p a{
 	color: #fff;
 }
 p:hover{
-    background: #000;
+    background: #fff;
+	color: #000;
     size: 24px;
     transition: .5s;
     transform: scale(.98);

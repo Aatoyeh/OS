@@ -15,7 +15,6 @@
 6. Indipendent
 7. Other
 8. Unknown
-
 ## Desktop
 #### Debian Based
 [AntiX](https://antixlinux.com)
@@ -29,8 +28,10 @@
 [Nitrux](https://nxos.org)
 
 [RaspberryPi OS](https://www.raspberrypi.com/software)
+
 #### 2
 [Fedora](https://getfedora.org)
+
 #### 3
 [Archcraft](https://archcraft.io)
 
@@ -45,6 +46,7 @@
 [Garuda](https://garudalinux.org)
 
 [Manjaro](https://manjaro.org)
+
 #### 4
 [Elementary](https://elementary.io)
 
@@ -61,6 +63,7 @@
 [Puppy](https://puppylinux-woof-ce.github.io)
 
 [Zorin](https://zorin.com)
+
 #### 6
 [Debian](https://www.debian.org)
 
@@ -84,7 +87,6 @@
 [Ubuntu Touch](https://ubports.com)
 
 #### 7
-
 [Plasma Mobile](https://plasma-mobile.org)
 a user interface for ARM OSes.
 
