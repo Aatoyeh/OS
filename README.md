@@ -17,7 +17,7 @@
 8. Unknown
 
 ## Desktop
-#### Debian Based
+#### 1
 [AntiX](https://antixlinux.com)
 
 [BunsenLabs](https://www.bunsenlabs.org)
@@ -79,7 +79,7 @@
 [Solus](https://getsol.us)
 
 ## Mobile
-#### Debian Based
+#### 1
 [Mobian](https://mobian-project.org)
 
 [PureOS](https://pureos.net)
@@ -110,7 +110,7 @@ a user interface for ARM OSes.
 [Sailfish OS](https://sailfishos.org)
 
 ## Hacking
-#### Debian Based
+#### 1
 [Kali](https://www.kali.org)
 
 [Parrot Security](https://www.parrotsec.org)
@@ -132,7 +132,7 @@ a user interface for ARM OSes.
 [Jayro’s Lockpick](https://gbatemp.net/threads/release-jayros-lockpick-a-bootable-password-removal-suite-winpe.579278)
 
 ## Security
-#### Debian Based
+#### 1
 [Tails](https://tails.boum.org)
 
 [Whonix (Kicksecure)](https://www.whonix.org)
@@ -144,7 +144,7 @@ a user interface for ARM OSes.
 [Alpine](https://www.alpinelinux.org)
 
 ## Server
-#### Debian Based
+#### 1
 [OpenMediaVault ( NAS system )](https://www.openmediavault.org)
 
 [YunoHost](https://yunohost.org)
@@ -157,7 +157,7 @@ a user interface for ARM OSes.
 [Alma](https://almalinux.org)
 
 ## Repair and Rescue
-#### Debian Based
+#### 1
 [Finnix](https://www.finnix.org)
 
 [Rescatux](https://www.supergrubdisk.org/rescatux)
