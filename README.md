@@ -15,16 +15,11 @@
 6. Indipendent
 7. Other
 8. Unknown
-
 ## Desktop
 #### Debian Based
-
 [AntiX](https://antixlinux.com)
-
 [BunsenLabs](https://www.bunsenlabs.org)
-
 [Deepin](https://www.deepin.org)
-
 [MX](https://mxlinux.org)
 
 [Nitrux](https://nxos.org)
