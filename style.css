@@ -20,7 +20,6 @@ p a{
 	text-decoration: none;
 }
 p:hover{
-    background: #000;
     transition: .5s;
     transform: scale(.98);
 }
