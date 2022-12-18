@@ -19,7 +19,7 @@ p a{
 	color: #fff;
 }
 p:hover{
-    background-color: #000;
+    background: #000;
     size: 24px;
     transition: .5s;
     transform: scale(.98);
