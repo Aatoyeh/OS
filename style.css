@@ -22,6 +22,6 @@ p:hover{
     background-color: #ffffff;
     size: 20px;
     transition: .5s;
-    transform: scale(.96);
+    transform: scale(.98);
 	text-decoration-style: dotted;
 }
