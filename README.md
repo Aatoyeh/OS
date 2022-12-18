@@ -18,17 +18,18 @@
 ## Desktop
 #### Debian Based
 [AntiX](https://antixlinux.com)
+
 [BunsenLabs](https://www.bunsenlabs.org)
+
 [Deepin](https://www.deepin.org)
+
 [MX](https://mxlinux.org)
 
 [Nitrux](https://nxos.org)
 
 [RaspberryPi OS](https://www.raspberrypi.com/software)
-
 #### 2
 [Fedora](https://getfedora.org)
-
 #### 3
 [Archcraft](https://archcraft.io)
 
@@ -43,7 +44,6 @@
 [Garuda](https://garudalinux.org)
 
 [Manjaro](https://manjaro.org)
-
 #### 4
 [Elementary](https://elementary.io)
 
@@ -60,7 +60,6 @@
 [Puppy](https://puppylinux-woof-ce.github.io)
 
 [Zorin](https://zorin.com)
-
 #### 6
 [Debian](https://www.debian.org)
 
