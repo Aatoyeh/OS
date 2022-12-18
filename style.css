@@ -24,5 +24,4 @@ p:hover{
     size: 24px;
     transition: .5s;
     transform: scale(.98);
-	text-decoration-style: dotted;
 }
