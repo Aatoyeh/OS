@@ -21,6 +21,5 @@ p a{
 a:hover{
 	color: #f00;
     transition: .5s;
-    transform: scale(.9);
-	text-decoration: none;
+    transform: scale(.98);
 }
