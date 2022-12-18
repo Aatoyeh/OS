@@ -16,12 +16,10 @@ h1{
   text-align: center;
 }
 p a{
-	color: #fff;
 	text-decoration: none;
 }
-p:hover{
+a:hover{
 	color: #0f0;
     transition: .5s;
     transform: scale(.98);
-	text-decoration: none;
 }
