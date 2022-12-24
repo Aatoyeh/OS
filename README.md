@@ -92,11 +92,11 @@
 a user interface for ARM OSes.
 
 [PostmarketOS](https://www.postmarketos.org)
-Based on Alpine linux.
+based on Alpine linux.
 
 ---
 [/e/](https://e.foundation/)
-Also known as eelo OS.
+also known as eelo OS.
 
 [CalyxOS](https://calyxos.org)
 
