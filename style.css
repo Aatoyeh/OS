@@ -22,7 +22,7 @@ a{
 }
 p a:hover{
 	color: #f00;
-	transition: transform 1s;
+	transition: 1s;
 	transform: scale(1.5);
 	background: none;
 	text-decoration: none;
