@@ -21,8 +21,8 @@ a{
 	color: #fff;
 }
 p a:hover{
-	transition: transform 0.5s;
-    transform: scale(1.5);
-	background: none;
 	color: #f00;
+	transition: 0.3s;
+	transform: scale(1.5);
+	background: none;
 }
