@@ -18,6 +18,7 @@ a{
 	color: #fff;
 }
 p a:hover{
+	background: none;
 	color: #f00;
 	text-decoration: none;
 }
