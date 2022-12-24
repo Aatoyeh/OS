@@ -28,6 +28,8 @@
 
 [Nitrux](https://nxos.org)
 
+[Pappermint](https://peppermintos.com)
+
 [RaspberryPi OS](https://www.raspberrypi.com/software)
 
 #### 2
@@ -56,8 +58,6 @@
 [LXLE](https://www.lxle.net)
 
 [Mint](https://www.linuxmint.com)
-
-[Pappermint](https://peppermintos.com)
 
 [POP!](https://pop.system76.com)
 
