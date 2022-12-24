@@ -91,10 +91,10 @@
 [Plasma Mobile](https://plasma-mobile.org)
 a user interface for ARM OSes.
 
-[PostmarketOS ( Alpine linux )](https://www.postmarketos.org)
+[PostmarketOS](https://www.postmarketos.org)( Alpine linux )
 
 ---
-[/e/ ( also known as eelo)](https://e.foundation/)
+[/e/](https://e.foundation/)( also known as eelo)
 
 [CalyxOS](https://calyxos.org)
 
