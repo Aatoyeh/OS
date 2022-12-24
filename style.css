@@ -23,7 +23,7 @@ a{
 p a:hover{
 	color: #f00;
 	transition: 0.5s;
-	transform: scale(1.5);
+	transform: translateZ(1.5);
 	background: none;
 	text-decoration: none;
 }
