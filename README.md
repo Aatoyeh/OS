@@ -22,7 +22,7 @@
 
 [BunsenLabs](https://www.bunsenlabs.org)
 
-[Deepin](https://www.deepin.org)
+[Deepin](https://www.deepin.org/index/en)
 
 [MX](https://mxlinux.org)
 
