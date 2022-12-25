@@ -18,17 +18,17 @@
 
 ## Desktop
 #### 1
-[AntiX](https://antixlinux.com)
+[AntiX Linux](https://antixlinux.com)
 
-[BunsenLabs](https://www.bunsenlabs.org)
+[BunsenLabs Linux](https://www.bunsenlabs.org)
 
-[Deepin](https://www.deepin.org/index/en)
+[Deepin Linux](https://www.deepin.org/index/en)
 
-[MX](https://mxlinux.org)
+[MX Linux](https://mxlinux.org)
 
 [Nitrux](https://nxos.org)
 
-[Pappermint](https://peppermintos.com)
+[Pappermint Os](https://peppermintos.com)
 
 [RaspberryPi OS](https://www.raspberrypi.com/software)
 
@@ -38,41 +38,41 @@
 #### 3
 [Archcraft](https://archcraft.io)
 
-[Archlabs](https://archlabslinux.com)
+[Archlabs Linux](https://archlabslinux.com)
 
-[Artix](https://artixlinux.org)
+[Artix Linux](https://artixlinux.org)
 
 [Axyl](https://axyl-os.github.io)
 
 [EndeavourOS](https://endeavouros.com)
 
-[Garuda](https://garudalinux.org)
+[Garuda Linux](https://garudalinux.org)
 
 [Manjaro](https://manjaro.org)
 
 #### 4
-[Elementary](https://elementary.io)
+[Elementary OS](https://elementary.io)
 
-[Feren](https://ferenos.weebly.com)
+[Feren OS](https://ferenos.weebly.com)
 
 [LXLE](https://www.lxle.net)
 
-[Mint](https://www.linuxmint.com)
+[Linux Mint](https://www.linuxmint.com)
 
-[POP!](https://pop.system76.com)
+[POP!_OS](https://pop.system76.com)
 
-[Puppy](https://puppylinux-woof-ce.github.io)
+[Puppy Linux](https://puppylinux-woof-ce.github.io)
 
-[Zorin](https://zorin.com)
+[Zorin OS](https://zorin.com)
 
 #### 6
 [Debian](https://www.debian.org)
 
-[Gentoo](https://www.gentoo.org)
+[Gentoo Linux](https://www.gentoo.org)
 
 [Mageia](https://www.mageia.org)
 
-[Nix](https://nixos.org)
+[NixOS](https://nixos.org)
 
 [Slackware](http://www.slackware.com)
 
@@ -107,23 +107,24 @@ also known as eelo OS.
 [Replicant](https://replicant.us)
 
 ---
-[Kai OS](https://www.kaiostech.com)
+[KaiOS](https://www.kaiostech.com)
 
 [Sailfish OS](https://sailfishos.org)
 
 ## Hacking
 #### 1
-[Kali](https://www.kali.org)
+[Kali Linux](https://www.kali.org)
 
 [Parrot Security](https://www.parrotsec.org)
 
 #### 3
-[Black Arch](https://www.blackarch.org)
+[Black Arch Linux](https://www.blackarch.org)
 
 #### 4
 [Samurai Web Testing Framework](https://samurai.sourceforge.io)
 
-[DEFT Linux ( Discontinued )](https://archiveos.org/deft/)
+[DEFT Linux ](https://archiveos.org/deft/)
+is discontinued
 
 #### 7
 [Network Security Toolkit](https://www.networksecuritytoolkit.org)
@@ -154,9 +155,9 @@ also known as eelo OS.
 #### 2
 [NethServer](https://www.nethserver.org)
 
-[Rockey](https://rockylinux.org)
+[Rocky Linux](https://rockylinux.org)
 
-[Alma](https://almalinux.org)
+[Alma Linux](https://almalinux.org)
 
 ## Repair and Rescue
 #### 1
@@ -180,8 +181,8 @@ Empty
 ## (-|^|-)
 [Black Win](https://blackwin.ir)
 
-[DahliaOS](https://dahliaos.io)
+[Dahlia OS](https://dahliaos.io)
 
 [DEMON LINUX](https://www.demonlinux.com)
 
-[FydeOS](https://fydeos.io)
+[Fyde OS](https://fydeos.io)
